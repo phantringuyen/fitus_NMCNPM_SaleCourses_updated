@@ -3,11 +3,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-First of all, move to the present resporitory\
+First of all, move to the front-end part resporitory\
 **`cd frontend`**
 
+Secondly, move to the present resporitory to open the package.json dowloading necessary libraries\
+**`cd salecourses`**
+
 In the project directory, you can run:\
-**`npm install -i --force`**
+**`npm i --force`**
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
