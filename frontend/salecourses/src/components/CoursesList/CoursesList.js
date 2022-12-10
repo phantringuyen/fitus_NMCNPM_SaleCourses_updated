@@ -4,19 +4,19 @@ import './CoursesList.css';
 function CoursesList() {
     return (
         <>
-            <div className='courses-list-1'>
+            <div className='Lego Spike Prime Courses'>
                 <Card></Card>
                 <Card></Card>
                 <Card></Card>
                 <Card></Card>
             </div>
-            <div className='courses-list-2'>
+            <div className='Lego WeDo Courses'>
                 <Card></Card>
                 <Card></Card>
                 <Card></Card>
                 <Card></Card>
             </div>
-            <div className='courses-list-3'>
+            <div className='MindStorm EV3 courses'>
                 <Card></Card>
                 <Card></Card>
                 <Card></Card>
