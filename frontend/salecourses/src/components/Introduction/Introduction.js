@@ -38,13 +38,13 @@ export default function Introduction() {
                     <Col md="12">
                         <div className={classes.main}>
                             <Typography variant="h2" component="h1" gutterBottom>
-                                SellCourses
+                                SalesCourses
                             </Typography>
                             <Typography variant="h5" component="h2" gutterBottom>
-                                SellCourses is a platform for selling courses online.
+                                SalesCourses Website is a platform for selling courses online.
                             </Typography>
                             <Typography variant="body1">
-                                SellCourses is a platform for selling courses online. It is a website that allows you to sell your courses online. You can create your own courses and sell them online. You can also buy courses from other people. You can also create your own courses and sell them online. You can also buy courses from other people.
+                                It is a website that allows you to sell your courses online. You can create your own courses and sell them online. You can also buy courses from other people. You can also create your own courses and sell them online. You can also buy courses from other people.
                             </Typography>
                             
                         </div>
