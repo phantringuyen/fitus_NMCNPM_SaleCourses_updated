@@ -1,0 +1,9 @@
+/* make cards in a row */
+.courses-list-1, .courses-list-2, .courses-list-3 {
+  display: flex;
+  /* make cards in a row and at the center */
+  justify-content: center; 
+  flex-wrap: wrap;
+}
+
+
