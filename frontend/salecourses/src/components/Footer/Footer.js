@@ -24,7 +24,7 @@ function Footer() {
           }}
         >
             <div>
-            {/* <Image priority src="/Logo.svg" width={75} height={30} alt="Logo" /> */}
+            <Image priority src="/Logo.svg" width={75} height={30} alt="Logo" />
             </div>
         </Box>
 
@@ -37,7 +37,7 @@ function Footer() {
           }}
         >
           <Typography variant="caption" color="initial">
-            Copyright ©2022. SELL-COURSES
+            Copyright ©2022. SALES-COURSES
           </Typography>
         </Box>
       </Container>
